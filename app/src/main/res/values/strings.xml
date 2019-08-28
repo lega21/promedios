@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="txt_nota1">Nota1</string>
+    <string name="txt_nota2">Nota2</string>
+    <string name="txt_nota3">Nota3</string>
+    <string name="txt_calcular">Calcular</string>
+
+</resources>
